@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroui/react": "^2.8.9",
+    "@heroui/theme": "^2.4.26",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
